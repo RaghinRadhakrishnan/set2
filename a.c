@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <math.h>
+#include<stdio.h>
+#include<math.h>
 void main()
 {
 int low,high,i,temp1,temp2,remainder,n=0,result=0;
